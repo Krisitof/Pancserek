@@ -1,0 +1,54 @@
+AJÁNLATTÉTELI FELHÍVÁS
+
+1. Ajánlatkérő adatai
+Ajánlatkérő: Pancserek
+Székhely: Budapest, Bécsi út 134, 1032
+Telefon: +36 30 420 6769
+
+2. A beszerzés tárgya
+Az ajánlatkérő a „Informatikai szolgáltató vállalkozás eszköz- és mobilitásfejlesztése” című projekt keretében ajánlatot kér az alábbi két részterületre:
+
+1. rész: Céges jármű beszerzése
+Egy darab plug-in hibrid személygépjármű beszerzése, amely alkalmas üzleti célú használatra, különösen informatikai szolgáltatások helyszíni ellátására.
+
+2. rész: Informatikai eszközbeszerzés
+Modern informatikai eszközpark beszerzése, amely támogatja a szoftverfejlesztési és rendszerüzemeltetési tevékenységeket.
+
+3. Műszaki elvárások
+
+1. rész – Jármű:
+
+plug-in hibrid hajtás
+alacsony fogyasztás és károsanyag-kibocsátás
+minimum 5 személyes kivitel
+megfelelő csomagtér IT eszközök szállítására
+legalább 3 év garancia
+
+2. rész – Informatikai eszközök:
+
+3 db nagy teljesítményű laptop (minimum i7 / Ryzen 7 kategória)
+minimum 16–32 GB RAM
+SSD háttértár
+dokkoló állomások
+monitorok és perifériák
+minimum 2–3 év garancia
+
+5. Teljesítés helye és határideje
+Teljesítés helye: Budapest, Bécsi út 134, 1032
+Teljesítési határidő: szerződéskötéstől számított maximum 30 nap
+
+6. Ajánlattétel feltételei
+Az ajánlatnak tartalmaznia kell:
+
+ajánlattevő adatait
+részletes műszaki tartalmat
+nettó és bruttó árat
+szállítási határidőt
+garanciális feltételeket
+
+8. Ajánlattételi határidő
+2026.április.28
+
+9. Ajánlat benyújtásának módja
+Elektronikus úton PDF formátumban az alábbi e-mail címre:
+info@pancserek.hu
